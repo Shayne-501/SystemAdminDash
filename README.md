@@ -1,5 +1,5 @@
 # SystemAdminDash
-This is a slot for a Kali linux project for COMPTIA A+ core 2 by Group 3
+This is a slot for a Kali linux project for COMPTIA A++ core 2 by Group 3
 
 # System Admin Dashboard
 
@@ -11,10 +11,10 @@ A comprehensive **System Administration Dashboard** built in **Bash** for Linux 
 
 - System Information Display
 - User Management (add, delete, modify users)
-- ⚙Process & Service Control
+- ⚙ Process & Service Control
 - Network Diagnostics
 - Log Analysis
-- 🗄Backup and Restore Utilities
+- 🗄 Backup and Restore Utilities
 - System Update Manager
 - Security Enhancements (optional)
 - Modular Design with Error Handling
@@ -83,7 +83,7 @@ Kali Linux (VirtualBox)
 ---
 
 ## Acknowledgement
-Project for ICT 132 - Comptia A+
+Project for ICT 132 - Comptia A++
 Bells University of Technology – New Horizons
 Done by - Group 3
 
