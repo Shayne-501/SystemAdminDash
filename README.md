@@ -53,25 +53,34 @@ admin_dashboard/
 
 ## Contributors
 
-FAYOMADE OLUWASEYI [2024/12966] (Team Leader)
+FAYOMADE OLUWASEYI [2024/12966] 
+(Team Leader)
 
-[Teammate 1]
+ALIMI HAMEEDAH [2024/13615]
 
-[Teammate 2]
+DELE-SALAU MOYINOLUWA [2024/13184]
 
-[Teammate 3]
+AHONKHAI MARVELLOUS [2024/13259]
+
+OMONIYI AYOMIPOSI [2024/13233]
 
 ---
 
-# Testing
+## Testing
 Tested on Kali Linux (VirtualBox)
+
+---
 
 ## Acknowledgement
 Project for ICT 132 - Comptia A+
 Bells University of Technology – New Horizons
 Done by - Group 3
 
+---
+
 ### WARNING
 Ensure that this dashboard is run in a virtual test environment
+
+---
 
 ❤️💖...THANK 😁 YOU...💖❤️
