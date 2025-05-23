@@ -24,10 +24,10 @@ A comprehensive **System Administration Dashboard** built in **Bash** for Linux 
 ## Installation
 
 bash: 
-git clone https://github.com/YOUR_USERNAME/admin-dashboard.git
-cd admin-dashboard
-chmod +x install.sh
-./install.sh
+  git clone https://github.com/QueenSaucy/admin-dashboard.git
+  cd admin-dashboard
+  chmod +x install.sh
+  ./install.sh
 
 ---
 
@@ -41,11 +41,11 @@ Linux bash (bash is from the Lnux terminal)
 ## Project Structure
 
 admin_dashboard/
-├── admin_dashboard.sh        # Main script
+├── admin_dashboard.sh        # Main dashboard script
 ├── install.sh                # Installer
-├── uninstall.sh              # Uninstaller (optional)
+├── uninstall.sh              # Uninstaller
 ├── modules/                  # Feature modules
-├── config/                   # Config files
+├── config/                   # Configuration files
 ├── logs/                     # Log files
 └── README.md                 # This file
 
@@ -67,7 +67,9 @@ OMONIYI AYOMIPOSI [2024/13233]
 ---
 
 ## Testing
-Tested on Kali Linux (VirtualBox)
+Tested on:
+
+Kali Linux (VirtualBox)
 
 ---
 
@@ -79,8 +81,8 @@ Done by - Group 3
 ---
 
 ### WARNING
-Ensure that this dashboard is run in a virtual test environment
+Ensure that this dashboard is run in a virtual test environment‼️‼️‼️
 
 ---
 
-❤️💖...THANK 😁 YOU...💖❤️
+                                          ❤️💖...THANK 😁 YOU...💖❤️
