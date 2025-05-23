@@ -1,5 +1,5 @@
 # SystemAdminDash
-This is a slot for a Kali linux project for COMPTIA A++ core 2 by Group 3
+This is a repository slot for a Kali linux ISO project for COMPTIA A++ core 2 by Group 3
 
 # System Admin Dashboard
 
