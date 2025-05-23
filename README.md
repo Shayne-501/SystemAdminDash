@@ -25,8 +25,11 @@ A comprehensive **System Administration Dashboard** built in **Bash** for Linux 
 
 bash: 
   git clone https://github.com/QueenSaucy/admin-dashboard.git
+  
   cd admin-dashboard
+  
   chmod +x install.sh
+  
   ./install.sh
 
 ---
@@ -42,11 +45,17 @@ Linux bash (bash is from the Lnux terminal)
 
 admin_dashboard/
 ├── admin_dashboard.sh        # Main dashboard script
+
 ├── install.sh                # Installer
+
 ├── uninstall.sh              # Uninstaller
+
 ├── modules/                  # Feature modules
+
 ├── config/                   # Configuration files
+
 ├── logs/                     # Log files
+
 └── README.md                 # This file
 
 ---
