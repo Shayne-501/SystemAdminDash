@@ -1,0 +1,56 @@
+# OS and Editor junk
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+__MACOSX/
+
+# Editor-specific
+*.swp
+*.swo
+*.bak
+*~
+.vscode/
+.idea/
+*.log
+
+# Shell and CLI
+.history
+.bash_history
+.zsh_history
+
+# Logs and runtime files
+logs/
+*.log
+*.pid
+*.gz
+*.tmp
+*.tar
+*.tar.gz
+*.zip
+
+# Backups
+*.bak
+*.old
+*.backup
+
+# System-specific
+*.iso
+*.img
+*.vdi
+*.vmdk
+
+# Ignore compiled binaries and cache
+*.out
+*.o
+*.so
+*.class
+*.pyc
+__pycache__/
+
+# Personal configurations
+.env
+*.key
+*.pem
+*.crt
+*.conf
