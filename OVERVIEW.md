@@ -66,12 +66,17 @@ FAYOMADE OLUWASEYI [2024/12966]
 (Team Leader)
 
 ALIMI HAMEEDAH [2024/13615]
+(Report writer)
 
 DELE-SALAU MOYINOLUWA [2024/13184]
+(Dashboard Tester)
 
 AHONKHAI MARVELLOUS [2024/13259]
+(Instructions Manual writer)
 
 OMONIYI AYOMIPOSI [2024/13233]
+(Installer & Uninstaller pack writer)
+
 
 ---
 
